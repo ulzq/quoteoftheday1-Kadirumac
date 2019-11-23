@@ -1,0 +1,18 @@
+.col-12{
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+
+.btn {
+    margin-top:10px;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+#par{
+    margin: 10px;
+}
